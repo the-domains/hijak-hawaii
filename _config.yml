@@ -1,7 +1,7 @@
 name: Hijak Hawaii
 favicon: null
-layout_spectrum: 0.24668933521024883
-typography_spectrum: 0.8584791037719697
+layout_spectrum: 0.39458
+typography_spectrum: 0.21757
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.9775435319170356
+    - '#010101'
+    - '#bfc6d6'
+    - '#f8f8ff'
+    - '#4b3935'
+    - '#666a76'
+  brandStrength: 0.0625
   lightness: 0.8106486045289785
-  saturation: 0.06855021812953055
+  saturation: 0.125
   rhythmicContrast: 0.7027768513653427
 purpose: []
